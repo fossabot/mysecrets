@@ -1,4 +1,6 @@
 # MySecrets
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMatthiasWiesner%2Fmysecrets.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMatthiasWiesner%2Fmysecrets?ref=badge_shield)
+
 
 The website *mysecrets* is supposed to be a distributed storage for a single users account credentials. 
 There is a git branch for [GitHub: multiple users], which isn't under development.
@@ -72,3 +74,7 @@ The compression of all js and css files is done by [Grunt].
 [Firebase]: https://www.firebase.com/
 [bower]: http://bower.io/
 [Grunt]: http://gruntjs.com/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMatthiasWiesner%2Fmysecrets.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMatthiasWiesner%2Fmysecrets?ref=badge_large)
